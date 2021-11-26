@@ -1,0 +1,53 @@
+header{
+    background: gray;
+    padding: 20px;
+}
+
+.box-header{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.logo{
+    width: 200px;
+}
+
+nav{
+    position: absolute;
+    top: 150px;
+    right: 0;
+}
+
+.main-content{
+    position: relative;
+    width: 50%;
+    margin: 150px auto;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-color: rgb(66, 66, 66);
+    border-style: solid;
+    border-width: 1px;
+}
+
+p{
+    text-align: center;
+}
+
+form label{
+    display: block;
+}
+
+
+footer{
+    text-align: center;
+    background: linear-gradient(white,rgb(0, 0, 0));
+    padding: 40px 0;
+}
+
+.copyright{
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
